@@ -1,3 +1,6 @@
+# ARCHIVED
+since the QMC6310 has been discontinued, we are not going to make it in production.
+###
 [한국어](https://github.com/FTIndustries/QMC6310-Breakout/blob/main/readme-ko.md)
 # FTIndustries QMC6310 3-Axis hall sensor breakout
 ![preview](https://github.com/FTIndustries/QMC6310-Breakout/blob/main/3dpreview.png?raw=true)\
