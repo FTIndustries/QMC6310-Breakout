@@ -1,3 +1,6 @@
+# 아카이브됨
+QMC6310 칩이 단종됨에 따라 실제 생산에 옮기지 않기로 결정했습니다.
+###
 [English](https://github.com/FTIndustries/QMC6310-Breakout)
 # FTIndustries QMC6310 3-Axis hall sensor breakout
 ![preview](https://github.com/FTIndustries/QMC6310-Breakout/blob/main/3dpreview.png?raw=true)\
